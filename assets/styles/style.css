@@ -319,6 +319,9 @@ header nav ul li a:hover {
   font-size: 30px;
   text-transform: uppercase;
 }
+.buttons .btn a {
+  color: #fff;
+}
 .buttons .btn:hover {
   cursor: pointer;
 }
